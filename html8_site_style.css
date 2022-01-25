@@ -1,0 +1,169 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.generalclass {
+    display: block;
+}
+
+.gray_part{
+    background-color: dimgray;
+    display: block;
+}
+
+.firstline{
+    display: flex;
+}
+
+.FLtext{
+    font-size: 25px;
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+.FLicons{
+    width: 10%;
+    margin-left: 80%;
+}
+
+.FL_twitter {
+    width: 20%;
+    filter: invert(1);
+}
+
+.FL_facebock {
+    width: 20%;
+    margin-left: 10px;
+    margin-top: 20px;
+    filter: invert(1);
+}
+
+.FL_LinkedIn {
+    width: 20%;
+    margin-left: 10px;
+    margin-top: 20px;
+    filter: invert(1);
+}
+
+
+.maintext{
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left:20px;
+    width: 70%;
+    color: white;
+}
+
+.middletext {
+    display: block;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.firstsubblock{
+    display: flex;
+}
+
+.firstsubbline {
+    height: 100px;
+    width: 140px;
+    margin-right: 350px;
+    font-family: Monotype Corsiva;
+}
+
+.handwritten_text{
+    color: white;
+    margin-bottom: 40px;
+}
+
+.firsttextline{
+    display: block;
+    color: white;   
+    font-size: 30px;
+    width: 400px;
+}
+
+.fourlinetext{
+    margin-bottom: 20px;
+}
+
+.srcondsubblock {
+    display: flex;
+    margin-top: 40px;
+}
+
+.secondsubbline {
+    height: 100px;
+    width: 140px;
+    margin-right: 350px;
+    font-family: Monotype Corsiva;
+}
+
+.handwritten_text {
+    color: white;
+    margin-bottom: 40px;
+}
+
+.thirdsubblock {
+    display: flex;
+    margin-top: 40px;
+    height: 200px;
+}
+
+.thirdsubbline {
+    height: 50px;
+    width: 270px;
+    margin-right: 350px;
+    color: white;
+    font-family: Monotype Corsiva;
+}
+
+.thirdtextline {
+    display: block;
+    color: white;
+    width: 400px;
+}
+
+
+
+.white_part {
+    display: block;
+}
+
+.WP_text {
+    margin-top: 60px;
+    font-size: 34px;
+    width: 35%;
+    margin-left: 20px;
+}
+
+.WP_icons{
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 80px;
+}
+
+.WP_twitter {
+    width: 20%;
+}
+
+.WP_facebock {
+    width: 20%;
+    margin-left: 10px;
+}
+
+.WP_LinkedIn {
+    width: 20%;
+    margin-left: 10px;
+}
+
+.MAde_with{
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-left: 20px;
+}
